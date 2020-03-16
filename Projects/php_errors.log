@@ -1,0 +1,526 @@
+[20-Mar-2019 20:37:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 10
+[20-Mar-2019 20:37:09 UTC] PHP Stack trace:
+[20-Mar-2019 20:37:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:0
+[20-Mar-2019 20:37:09 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:10
+[20-Mar-2019 20:37:47 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 9
+[20-Mar-2019 20:37:47 UTC] PHP Stack trace:
+[20-Mar-2019 20:37:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:0
+[20-Mar-2019 20:37:47 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:9
+[20-Mar-2019 20:37:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 12
+[20-Mar-2019 20:37:47 UTC] PHP Stack trace:
+[20-Mar-2019 20:37:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:0
+[20-Mar-2019 20:37:47 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:12
+[20-Mar-2019 20:38:24 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 8
+[20-Mar-2019 20:38:24 UTC] PHP Stack trace:
+[20-Mar-2019 20:38:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:0
+[20-Mar-2019 20:38:24 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:8
+[20-Mar-2019 20:39:36 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 8
+[20-Mar-2019 20:39:36 UTC] PHP Stack trace:
+[20-Mar-2019 20:39:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:0
+[20-Mar-2019 20:39:36 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:8
+[20-Mar-2019 20:52:36 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 8
+[20-Mar-2019 20:52:36 UTC] PHP Stack trace:
+[20-Mar-2019 20:52:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:0
+[20-Mar-2019 20:52:36 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:8
+[20-Mar-2019 20:52:38 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 8
+[20-Mar-2019 20:52:38 UTC] PHP Stack trace:
+[20-Mar-2019 20:52:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:0
+[20-Mar-2019 20:52:38 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:8
+[20-Mar-2019 21:00:37 UTC] PHP Warning:  require_once(startsession.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 3
+[20-Mar-2019 21:00:37 UTC] PHP Stack trace:
+[20-Mar-2019 21:00:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:0
+[20-Mar-2019 21:00:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'startsession.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 3
+[20-Mar-2019 21:00:37 UTC] PHP Stack trace:
+[20-Mar-2019 21:00:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:0
+[20-Mar-2019 22:23:34 UTC] PHP Parse error:  syntax error, unexpected 'setcookie' (T_STRING) in /home/ubuntu/workspace/spring2019/Projects/project02/login.php on line 39
+[20-Mar-2019 23:37:35 UTC] PHP Warning:  move_uploaded_file(images/johanpic.jpg): failed to open stream: No such file or directory in /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php on line 54
+[20-Mar-2019 23:37:35 UTC] PHP Stack trace:
+[20-Mar-2019 23:37:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php:0
+[20-Mar-2019 23:37:35 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php:54
+[20-Mar-2019 23:37:35 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpTk9dSA' to 'images/johanpic.jpg' in /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php on line 54
+[20-Mar-2019 23:37:35 UTC] PHP Stack trace:
+[20-Mar-2019 23:37:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php:0
+[20-Mar-2019 23:37:35 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php:54
+[20-Mar-2019 23:40:26 UTC] PHP Warning:  move_uploaded_file(images/johanpic.jpg): failed to open stream: No such file or directory in /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php on line 54
+[20-Mar-2019 23:40:26 UTC] PHP Stack trace:
+[20-Mar-2019 23:40:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php:0
+[20-Mar-2019 23:40:26 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php:54
+[20-Mar-2019 23:40:26 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpb7dLy7' to 'images/johanpic.jpg' in /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php on line 54
+[20-Mar-2019 23:40:26 UTC] PHP Stack trace:
+[20-Mar-2019 23:40:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php:0
+[20-Mar-2019 23:40:26 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php:54
+[20-Mar-2019 23:40:45 UTC] PHP Warning:  move_uploaded_file(images/johanpic.jpg): failed to open stream: No such file or directory in /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php on line 54
+[20-Mar-2019 23:40:45 UTC] PHP Stack trace:
+[20-Mar-2019 23:40:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php:0
+[20-Mar-2019 23:40:45 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php:54
+[20-Mar-2019 23:40:45 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpxKqLNX' to 'images/johanpic.jpg' in /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php on line 54
+[20-Mar-2019 23:40:45 UTC] PHP Stack trace:
+[20-Mar-2019 23:40:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php:0
+[20-Mar-2019 23:40:45 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php:54
+[20-Mar-2019 23:42:17 UTC] PHP Warning:  move_uploaded_file(images/johanpic.jpg): failed to open stream: No such file or directory in /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php on line 54
+[20-Mar-2019 23:42:17 UTC] PHP Stack trace:
+[20-Mar-2019 23:42:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php:0
+[20-Mar-2019 23:42:17 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php:54
+[20-Mar-2019 23:42:17 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1WIX6B' to 'images/johanpic.jpg' in /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php on line 54
+[20-Mar-2019 23:42:17 UTC] PHP Stack trace:
+[20-Mar-2019 23:42:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php:0
+[20-Mar-2019 23:42:17 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php:54
+[21-Mar-2019 00:18:20 UTC] PHP Warning:  move_uploaded_file(images/johanpic.jpg): failed to open stream: No such file or directory in /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php on line 54
+[21-Mar-2019 00:18:20 UTC] PHP Stack trace:
+[21-Mar-2019 00:18:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php:0
+[21-Mar-2019 00:18:20 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php:54
+[21-Mar-2019 00:18:20 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAJSmmd' to 'images/johanpic.jpg' in /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php on line 54
+[21-Mar-2019 00:18:20 UTC] PHP Stack trace:
+[21-Mar-2019 00:18:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php:0
+[21-Mar-2019 00:18:20 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/spring2019/Projects/project02/editProfile.php:54
+[21-Mar-2019 14:36:41 UTC] PHP Warning:  require_once(navmenu): failed to open stream: No such file or directory in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 8
+[21-Mar-2019 14:36:41 UTC] PHP Stack trace:
+[21-Mar-2019 14:36:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:0
+[21-Mar-2019 14:36:41 UTC] PHP Fatal error:  require_once(): Failed opening required 'navmenu' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 8
+[21-Mar-2019 14:36:41 UTC] PHP Stack trace:
+[21-Mar-2019 14:36:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:0
+[21-Mar-2019 16:06:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 67
+[21-Mar-2019 16:06:37 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 97
+[21-Mar-2019 16:06:39 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 97
+[21-Mar-2019 16:06:39 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 97
+[21-Mar-2019 16:07:24 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 97
+[21-Mar-2019 16:07:47 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 97
+[21-Mar-2019 16:08:04 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 101
+[21-Mar-2019 17:13:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 125
+[22-Mar-2019 17:58:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 16
+[22-Mar-2019 17:58:11 UTC] PHP Stack trace:
+[22-Mar-2019 17:58:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[22-Mar-2019 17:58:11 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:16
+[22-Mar-2019 17:58:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 36
+[22-Mar-2019 17:58:56 UTC] PHP Stack trace:
+[22-Mar-2019 17:58:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[22-Mar-2019 17:58:56 UTC] PHP   2. mysql_close() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:36
+[22-Mar-2019 17:59:26 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 36
+[22-Mar-2019 17:59:26 UTC] PHP Stack trace:
+[22-Mar-2019 17:59:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[22-Mar-2019 17:59:26 UTC] PHP   2. mysql_close() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:36
+[23-Mar-2019 00:16:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 16
+[23-Mar-2019 00:16:02 UTC] PHP Stack trace:
+[23-Mar-2019 00:16:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[23-Mar-2019 00:16:02 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:16
+[23-Mar-2019 00:17:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 16
+[23-Mar-2019 00:17:17 UTC] PHP Stack trace:
+[23-Mar-2019 00:17:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[23-Mar-2019 00:17:17 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:16
+[23-Mar-2019 00:18:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 20
+[23-Mar-2019 00:18:24 UTC] PHP Stack trace:
+[23-Mar-2019 00:18:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[23-Mar-2019 00:18:24 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:20
+[23-Mar-2019 00:18:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 20
+[23-Mar-2019 00:18:26 UTC] PHP Stack trace:
+[23-Mar-2019 00:18:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[23-Mar-2019 00:18:26 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:20
+[23-Mar-2019 00:20:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 22
+[23-Mar-2019 00:20:28 UTC] PHP Stack trace:
+[23-Mar-2019 00:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[23-Mar-2019 00:20:28 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:22
+[23-Mar-2019 00:20:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 22
+[23-Mar-2019 00:20:29 UTC] PHP Stack trace:
+[23-Mar-2019 00:20:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[23-Mar-2019 00:20:29 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:22
+[23-Mar-2019 00:25:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 22
+[23-Mar-2019 00:25:06 UTC] PHP Stack trace:
+[23-Mar-2019 00:25:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[23-Mar-2019 00:25:06 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:22
+[23-Mar-2019 00:26:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 22
+[23-Mar-2019 00:26:16 UTC] PHP Stack trace:
+[23-Mar-2019 00:26:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[23-Mar-2019 00:26:16 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:22
+[23-Mar-2019 00:27:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 22
+[23-Mar-2019 00:27:07 UTC] PHP Stack trace:
+[23-Mar-2019 00:27:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[23-Mar-2019 00:27:07 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:22
+[23-Mar-2019 00:27:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 22
+[23-Mar-2019 00:27:09 UTC] PHP Stack trace:
+[23-Mar-2019 00:27:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[23-Mar-2019 00:27:09 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:22
+[23-Mar-2019 00:33:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 81
+[23-Mar-2019 00:43:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 27
+[23-Mar-2019 00:43:25 UTC] PHP Stack trace:
+[23-Mar-2019 00:43:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[23-Mar-2019 00:43:25 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:27
+[23-Mar-2019 00:57:51 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 25
+[23-Mar-2019 00:57:51 UTC] PHP Stack trace:
+[23-Mar-2019 00:57:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[23-Mar-2019 00:57:51 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:25
+[25-Mar-2019 17:57:59 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 96
+[25-Mar-2019 17:58:00 UTC] PHP Stack trace:
+[25-Mar-2019 17:58:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:0
+[25-Mar-2019 18:00:14 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 96
+[25-Mar-2019 18:00:14 UTC] PHP Stack trace:
+[25-Mar-2019 18:00:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:0
+[25-Mar-2019 18:00:48 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 94
+[25-Mar-2019 18:00:48 UTC] PHP Stack trace:
+[25-Mar-2019 18:00:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:0
+[25-Mar-2019 18:00:59 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 94
+[25-Mar-2019 18:00:59 UTC] PHP Stack trace:
+[25-Mar-2019 18:00:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:0
+[25-Mar-2019 18:01:01 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 94
+[25-Mar-2019 18:01:01 UTC] PHP Stack trace:
+[25-Mar-2019 18:01:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:0
+[25-Mar-2019 18:01:01 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 94
+[25-Mar-2019 18:01:01 UTC] PHP Stack trace:
+[25-Mar-2019 18:01:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:0
+[25-Mar-2019 18:01:02 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 94
+[25-Mar-2019 18:01:02 UTC] PHP Stack trace:
+[25-Mar-2019 18:01:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:0
+[25-Mar-2019 18:06:04 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 94
+[25-Mar-2019 18:06:04 UTC] PHP Stack trace:
+[25-Mar-2019 18:06:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php:0
+[25-Mar-2019 18:11:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project02/index.php on line 24
+[25-Mar-2019 18:12:39 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project02/index.php on line 24
+[25-Mar-2019 18:12:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project02/index.php on line 24
+[25-Mar-2019 18:12:41 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project02/index.php on line 24
+[26-Mar-2019 18:10:59 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 9
+[26-Mar-2019 18:31:40 UTC] PHP Fatal error:  Call to undefined function year() in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 37
+[26-Mar-2019 18:31:40 UTC] PHP Stack trace:
+[26-Mar-2019 18:31:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[26-Mar-2019 18:31:52 UTC] PHP Fatal error:  Call to undefined function year() in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 37
+[26-Mar-2019 18:31:52 UTC] PHP Stack trace:
+[26-Mar-2019 18:31:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[26-Mar-2019 18:31:53 UTC] PHP Fatal error:  Call to undefined function year() in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 37
+[26-Mar-2019 18:31:53 UTC] PHP Stack trace:
+[26-Mar-2019 18:31:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[26-Mar-2019 18:31:54 UTC] PHP Fatal error:  Call to undefined function year() in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 37
+[26-Mar-2019 18:31:54 UTC] PHP Stack trace:
+[26-Mar-2019 18:31:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[26-Mar-2019 18:31:55 UTC] PHP Fatal error:  Call to undefined function year() in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 37
+[26-Mar-2019 18:31:55 UTC] PHP Stack trace:
+[26-Mar-2019 18:31:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[26-Mar-2019 18:31:55 UTC] PHP Fatal error:  Call to undefined function year() in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 37
+[26-Mar-2019 18:31:55 UTC] PHP Stack trace:
+[26-Mar-2019 18:31:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[26-Mar-2019 18:42:27 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 112
+[26-Mar-2019 18:42:27 UTC] PHP Stack trace:
+[26-Mar-2019 18:42:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[26-Mar-2019 18:42:30 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 112
+[26-Mar-2019 18:42:30 UTC] PHP Stack trace:
+[26-Mar-2019 18:42:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[26-Mar-2019 18:42:30 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 112
+[26-Mar-2019 18:42:30 UTC] PHP Stack trace:
+[26-Mar-2019 18:42:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[26-Mar-2019 18:44:21 UTC] PHP Fatal error:  Class 'Date' not found in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 37
+[26-Mar-2019 18:44:21 UTC] PHP Stack trace:
+[26-Mar-2019 18:44:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[26-Mar-2019 18:48:09 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 69
+[26-Mar-2019 18:48:09 UTC] PHP Stack trace:
+[26-Mar-2019 18:48:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[26-Mar-2019 18:50:11 UTC] PHP Catchable fatal error:  Object of class DateInterval could not be converted to string in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 69
+[26-Mar-2019 18:50:11 UTC] PHP Stack trace:
+[26-Mar-2019 18:50:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[26-Mar-2019 18:53:41 UTC] PHP Catchable fatal error:  Object of class DateInterval could not be converted to string in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 69
+[26-Mar-2019 18:53:41 UTC] PHP Stack trace:
+[26-Mar-2019 18:53:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[26-Mar-2019 18:56:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 56
+[26-Mar-2019 18:57:02 UTC] PHP Catchable fatal error:  Object of class DateInterval could not be converted to string in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 56
+[26-Mar-2019 18:57:02 UTC] PHP Stack trace:
+[26-Mar-2019 18:57:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[26-Mar-2019 19:05:09 UTC] PHP Fatal error:  Class 'Date' not found in /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php on line 38
+[26-Mar-2019 19:05:09 UTC] PHP Stack trace:
+[26-Mar-2019 19:05:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/logExercise.php:0
+[28-Mar-2019 17:53:54 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 135
+[28-Mar-2019 17:54:13 UTC] PHP Parse error:  syntax error, unexpected '' ' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 140
+[28-Mar-2019 18:15:48 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 146
+[28-Mar-2019 18:34:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 145
+[28-Mar-2019 18:35:37 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ubuntu/workspace/spring2019/Projects/project02/viewProfile.php on line 133
+[28-Mar-2019 18:51:59 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project02/delete.php on line 55
+[28-Mar-2019 18:51:59 UTC] PHP Stack trace:
+[28-Mar-2019 18:51:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/delete.php:0
+[28-Mar-2019 18:51:59 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/spring2019/Projects/project02/delete.php:55
+[28-Mar-2019 18:52:01 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project02/delete.php on line 55
+[28-Mar-2019 18:52:01 UTC] PHP Stack trace:
+[28-Mar-2019 18:52:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/delete.php:0
+[28-Mar-2019 18:52:01 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/spring2019/Projects/project02/delete.php:55
+[28-Mar-2019 18:52:20 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project02/delete.php on line 55
+[28-Mar-2019 18:52:20 UTC] PHP Stack trace:
+[28-Mar-2019 18:52:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/delete.php:0
+[28-Mar-2019 18:52:20 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/spring2019/Projects/project02/delete.php:55
+[28-Mar-2019 18:53:10 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project02/delete.php on line 55
+[28-Mar-2019 18:53:10 UTC] PHP Stack trace:
+[28-Mar-2019 18:53:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project02/delete.php:0
+[28-Mar-2019 18:53:10 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/spring2019/Projects/project02/delete.php:55
+[28-Mar-2019 19:01:55 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ubuntu/workspace/spring2019/Projects/project02/delete.php on line 21
+[12-Apr-2019 00:59:11 UTC] PHP Parse error:  syntax error, unexpected '';' (T_ENCAPSED_AND_WHITESPACE), expecting ',' or ';' in /home/ubuntu/workspace/spring2019/Projects/project03/index.php on line 37
+[12-Apr-2019 01:11:32 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/spring2019/Projects/project03/index.php on line 58
+[12-Apr-2019 01:12:32 UTC] PHP Parse error:  syntax error, unexpected ''Title: '' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/spring2019/Projects/project03/index.php on line 58
+[12-Apr-2019 01:12:34 UTC] PHP Parse error:  syntax error, unexpected ''Title: '' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/spring2019/Projects/project03/index.php on line 58
+[12-Apr-2019 01:28:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/spring2019/Projects/project03/index.php on line 57
+[12-Apr-2019 01:28:22 UTC] PHP Stack trace:
+[12-Apr-2019 01:28:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/index.php:0
+[12-Apr-2019 01:28:22 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/Projects/project03/index.php:57
+[12-Apr-2019 01:36:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project03/index.php on line 35
+[12-Apr-2019 01:36:41 UTC] PHP Stack trace:
+[12-Apr-2019 01:36:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/index.php:0
+[12-Apr-2019 01:36:41 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/Projects/project03/index.php:35
+[12-Apr-2019 01:36:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/ubuntu/workspace/spring2019/Projects/project03/index.php on line 35
+[12-Apr-2019 01:36:58 UTC] PHP Stack trace:
+[12-Apr-2019 01:36:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/index.php:0
+[12-Apr-2019 01:36:58 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/Projects/project03/index.php:35
+[15-Apr-2019 18:22:36 UTC] PHP Warning:  require_once(appvars.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/spring2019/Projects/project03/signup.php on line 2
+[15-Apr-2019 18:22:36 UTC] PHP Stack trace:
+[15-Apr-2019 18:22:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/signup.php:0
+[15-Apr-2019 18:22:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'appvars.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/spring2019/Projects/project03/signup.php on line 2
+[15-Apr-2019 18:22:36 UTC] PHP Stack trace:
+[15-Apr-2019 18:22:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/signup.php:0
+[15-Apr-2019 22:28:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/spring2019/Projects/project03/admin.php on line 27
+[15-Apr-2019 22:28:53 UTC] PHP Stack trace:
+[15-Apr-2019 22:28:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/admin.php:0
+[15-Apr-2019 22:28:53 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/Projects/project03/admin.php:27
+[15-Apr-2019 22:42:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/spring2019/Projects/project03/admin.php on line 26
+[15-Apr-2019 22:42:20 UTC] PHP Stack trace:
+[15-Apr-2019 22:42:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/admin.php:0
+[15-Apr-2019 22:42:20 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/spring2019/Projects/project03/admin.php:26
+[15-Apr-2019 22:49:24 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ubuntu/workspace/spring2019/Projects/project03/admin.php on line 41
+[15-Apr-2019 22:49:42 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ubuntu/workspace/spring2019/Projects/project03/admin.php on line 41
+[17-Apr-2019 00:43:30 UTC] PHP Warning:  require_once(appvars.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/spring2019/Projects/project03/deleteBlog.php on line 5
+[17-Apr-2019 00:43:30 UTC] PHP Stack trace:
+[17-Apr-2019 00:43:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/deleteBlog.php:0
+[17-Apr-2019 00:43:30 UTC] PHP Fatal error:  require_once(): Failed opening required 'appvars.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/spring2019/Projects/project03/deleteBlog.php on line 5
+[17-Apr-2019 00:43:30 UTC] PHP Stack trace:
+[17-Apr-2019 00:43:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/deleteBlog.php:0
+[17-Apr-2019 01:09:44 UTC] PHP Parse error:  syntax error, unexpected 'blogID' (T_STRING), expecting ']' in /home/ubuntu/workspace/spring2019/Projects/project03/deleteBlog.php on line 16
+[17-Apr-2019 02:09:11 UTC] PHP Fatal error:  Call to undefined function SHA() in /home/ubuntu/workspace/spring2019/Projects/project03/login.php on line 30
+[17-Apr-2019 02:09:11 UTC] PHP Stack trace:
+[17-Apr-2019 02:09:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/login.php:0
+[17-Apr-2019 02:15:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project03/login.php on line 26
+[17-Apr-2019 02:15:46 UTC] PHP Stack trace:
+[17-Apr-2019 02:15:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/login.php:0
+[17-Apr-2019 02:15:46 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project03/login.php:26
+[17-Apr-2019 02:16:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/spring2019/Projects/project03/login.php on line 16
+[17-Apr-2019 02:16:37 UTC] PHP Stack trace:
+[17-Apr-2019 02:16:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/login.php:0
+[17-Apr-2019 02:16:37 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/spring2019/Projects/project03/login.php:16
+[17-Apr-2019 02:16:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/spring2019/Projects/project03/login.php on line 19
+[17-Apr-2019 02:16:37 UTC] PHP Stack trace:
+[17-Apr-2019 02:16:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/login.php:0
+[17-Apr-2019 02:16:37 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/spring2019/Projects/project03/login.php:19
+[17-Apr-2019 02:16:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/spring2019/Projects/project03/login.php on line 20
+[17-Apr-2019 02:16:37 UTC] PHP Stack trace:
+[17-Apr-2019 02:16:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/login.php:0
+[17-Apr-2019 02:16:37 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/spring2019/Projects/project03/login.php:20
+[17-Apr-2019 02:45:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project03/authorize.php on line 8
+[17-Apr-2019 02:45:19 UTC] PHP Stack trace:
+[17-Apr-2019 02:45:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/admin.php:0
+[17-Apr-2019 02:45:19 UTC] PHP   2. require_once() /home/ubuntu/workspace/spring2019/Projects/project03/admin.php:16
+[17-Apr-2019 02:45:19 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project03/authorize.php:8
+[17-Apr-2019 22:20:28 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project03/navmenu.php on line 38
+[17-Apr-2019 22:20:28 UTC] PHP Stack trace:
+[17-Apr-2019 22:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/admin.php:0
+[18-Apr-2019 18:26:02 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project03/index.php on line 31
+[18-Apr-2019 18:26:02 UTC] PHP Stack trace:
+[18-Apr-2019 18:26:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/index.php:0
+[18-Apr-2019 18:26:02 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/spring2019/Projects/project03/index.php:31
+[18-Apr-2019 18:26:02 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project03/index.php on line 32
+[18-Apr-2019 18:26:02 UTC] PHP Stack trace:
+[18-Apr-2019 18:26:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/index.php:0
+[18-Apr-2019 18:26:02 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/spring2019/Projects/project03/index.php:32
+[18-Apr-2019 18:26:02 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project03/index.php on line 33
+[18-Apr-2019 18:26:02 UTC] PHP Stack trace:
+[18-Apr-2019 18:26:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/index.php:0
+[18-Apr-2019 18:26:02 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/spring2019/Projects/project03/index.php:33
+[18-Apr-2019 18:26:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project03/index.php on line 31
+[18-Apr-2019 18:26:13 UTC] PHP Stack trace:
+[18-Apr-2019 18:26:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/index.php:0
+[18-Apr-2019 18:26:13 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/spring2019/Projects/project03/index.php:31
+[18-Apr-2019 18:26:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project03/index.php on line 32
+[18-Apr-2019 18:26:13 UTC] PHP Stack trace:
+[18-Apr-2019 18:26:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/index.php:0
+[18-Apr-2019 18:26:13 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/spring2019/Projects/project03/index.php:32
+[18-Apr-2019 18:26:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project03/index.php on line 31
+[18-Apr-2019 18:26:27 UTC] PHP Stack trace:
+[18-Apr-2019 18:26:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/index.php:0
+[18-Apr-2019 18:26:27 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/spring2019/Projects/project03/index.php:31
+[18-Apr-2019 18:26:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project03/index.php on line 32
+[18-Apr-2019 18:26:27 UTC] PHP Stack trace:
+[18-Apr-2019 18:26:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project03/index.php:0
+[18-Apr-2019 18:26:27 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/spring2019/Projects/project03/index.php:32
+[25-Apr-2019 17:46:19 UTC] PHP Warning:  require_once(navmenu.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/spring2019/Projects/project04/userRegister.php on line 6
+[25-Apr-2019 17:46:19 UTC] PHP Stack trace:
+[25-Apr-2019 17:46:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/userRegister.php:0
+[25-Apr-2019 17:46:19 UTC] PHP Fatal error:  require_once(): Failed opening required 'navmenu.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/spring2019/Projects/project04/userRegister.php on line 6
+[25-Apr-2019 17:46:19 UTC] PHP Stack trace:
+[25-Apr-2019 17:46:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/userRegister.php:0
+[25-Apr-2019 17:52:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project04/userRegister.php on line 26
+[25-Apr-2019 17:52:46 UTC] PHP Stack trace:
+[25-Apr-2019 17:52:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/userRegister.php:0
+[25-Apr-2019 17:52:46 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/spring2019/Projects/project04/userRegister.php:26
+[25-Apr-2019 17:54:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project04/userRegister.php on line 26
+[25-Apr-2019 17:54:04 UTC] PHP Stack trace:
+[25-Apr-2019 17:54:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/userRegister.php:0
+[25-Apr-2019 17:54:04 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/spring2019/Projects/project04/userRegister.php:26
+[25-Apr-2019 18:16:55 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/ubuntu/workspace/spring2019/Projects/project04/adminRegister.php on line 44
+[25-Apr-2019 19:05:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project04/userRegister.php on line 26
+[25-Apr-2019 19:05:08 UTC] PHP Stack trace:
+[25-Apr-2019 19:05:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/userRegister.php:0
+[25-Apr-2019 19:05:08 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/spring2019/Projects/project04/userRegister.php:26
+[26-Apr-2019 00:48:34 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/spring2019/Projects/project04/navmenu.php on line 9
+[26-Apr-2019 00:48:34 UTC] PHP Stack trace:
+[26-Apr-2019 00:48:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/index.php:0
+[26-Apr-2019 01:18:25 UTC] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/spring2019/Projects/project04/navmenu.php on line 30
+[26-Apr-2019 01:18:25 UTC] PHP Stack trace:
+[26-Apr-2019 01:18:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/index.php:0
+[26-Apr-2019 01:18:27 UTC] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/spring2019/Projects/project04/navmenu.php on line 30
+[26-Apr-2019 01:18:27 UTC] PHP Stack trace:
+[26-Apr-2019 01:18:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/index.php:0
+[26-Apr-2019 01:58:46 UTC] PHP Warning:  require_once(appvars.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php on line 25
+[26-Apr-2019 01:58:46 UTC] PHP Stack trace:
+[26-Apr-2019 01:58:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:0
+[26-Apr-2019 01:58:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'appvars.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php on line 25
+[26-Apr-2019 01:58:46 UTC] PHP Stack trace:
+[26-Apr-2019 01:58:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:0
+[26-Apr-2019 02:17:58 UTC] PHP Warning:  require_once(appvars.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php on line 25
+[26-Apr-2019 02:17:58 UTC] PHP Stack trace:
+[26-Apr-2019 02:17:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:0
+[26-Apr-2019 02:17:58 UTC] PHP Fatal error:  require_once(): Failed opening required 'appvars.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php on line 25
+[26-Apr-2019 02:17:58 UTC] PHP Stack trace:
+[26-Apr-2019 02:17:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:0
+[26-Apr-2019 02:41:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php on line 59
+[26-Apr-2019 02:41:32 UTC] PHP Stack trace:
+[26-Apr-2019 02:41:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:0
+[26-Apr-2019 02:41:32 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:59
+[26-Apr-2019 02:41:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php on line 59
+[26-Apr-2019 02:41:47 UTC] PHP Stack trace:
+[26-Apr-2019 02:41:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:0
+[26-Apr-2019 02:41:47 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:59
+[26-Apr-2019 02:41:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php on line 59
+[26-Apr-2019 02:41:48 UTC] PHP Stack trace:
+[26-Apr-2019 02:41:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:0
+[26-Apr-2019 02:41:48 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:59
+[26-Apr-2019 02:41:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php on line 59
+[26-Apr-2019 02:41:49 UTC] PHP Stack trace:
+[26-Apr-2019 02:41:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:0
+[26-Apr-2019 02:41:49 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:59
+[26-Apr-2019 02:41:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php on line 59
+[26-Apr-2019 02:41:49 UTC] PHP Stack trace:
+[26-Apr-2019 02:41:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:0
+[26-Apr-2019 02:41:49 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:59
+[26-Apr-2019 02:42:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php on line 59
+[26-Apr-2019 02:42:07 UTC] PHP Stack trace:
+[26-Apr-2019 02:42:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:0
+[26-Apr-2019 02:42:07 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:59
+[26-Apr-2019 02:42:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php on line 59
+[26-Apr-2019 02:42:08 UTC] PHP Stack trace:
+[26-Apr-2019 02:42:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:0
+[26-Apr-2019 02:42:08 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:59
+[26-Apr-2019 02:42:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php on line 59
+[26-Apr-2019 02:42:09 UTC] PHP Stack trace:
+[26-Apr-2019 02:42:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:0
+[26-Apr-2019 02:42:09 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:59
+[26-Apr-2019 02:42:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php on line 59
+[26-Apr-2019 02:42:10 UTC] PHP Stack trace:
+[26-Apr-2019 02:42:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:0
+[26-Apr-2019 02:42:10 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:59
+[26-Apr-2019 02:42:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php on line 59
+[26-Apr-2019 02:42:33 UTC] PHP Stack trace:
+[26-Apr-2019 02:42:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:0
+[26-Apr-2019 02:42:33 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/spring2019/Projects/project04/editUserProfile.php:59
+[01-May-2019 17:59:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project04/login.php on line 13
+[01-May-2019 18:00:57 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project04/login.php on line 13
+[01-May-2019 18:00:57 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project04/login.php on line 13
+[01-May-2019 18:01:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project04/login.php on line 13
+[01-May-2019 18:02:01 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project04/login.php on line 13
+[01-May-2019 18:02:01 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project04/login.php on line 13
+[01-May-2019 18:02:02 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project04/login.php on line 13
+[01-May-2019 18:02:02 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project04/login.php on line 13
+[01-May-2019 18:02:02 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project04/login.php on line 13
+[01-May-2019 18:02:03 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project04/login.php on line 13
+[01-May-2019 18:02:03 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project04/login.php on line 13
+[01-May-2019 18:02:03 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project04/login.php on line 13
+[01-May-2019 18:02:03 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project04/login.php on line 13
+[01-May-2019 18:02:03 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project04/login.php on line 13
+[01-May-2019 18:02:03 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project04/login.php on line 13
+[01-May-2019 18:02:04 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project04/login.php on line 13
+[01-May-2019 18:42:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/spring2019/Projects/project04/login.php on line 171
+[01-May-2019 18:45:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/spring2019/Projects/project04/login.php on line 108
+[01-May-2019 18:45:18 UTC] PHP Stack trace:
+[01-May-2019 18:45:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/login.php:0
+[01-May-2019 18:45:18 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/spring2019/Projects/project04/login.php:108
+[02-May-2019 15:47:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project04/meditationDairy.php on line 15
+[02-May-2019 19:13:30 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/spring2019/Projects/project04/meditationDairy.php on line 23
+[04-May-2019 23:17:51 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/spring2019/Projects/project04/createMeditationBlog.php on line 56
+[05-May-2019 00:43:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project04/meditationDiary.php on line 24
+[05-May-2019 01:15:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 25
+[05-May-2019 01:15:20 UTC] PHP Stack trace:
+[05-May-2019 01:15:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:0
+[05-May-2019 01:15:20 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:25
+[05-May-2019 01:15:59 UTC] PHP Parse error:  syntax error, unexpected '$title' (T_VARIABLE) in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 29
+[05-May-2019 01:16:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 25
+[05-May-2019 01:16:08 UTC] PHP Stack trace:
+[05-May-2019 01:16:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:0
+[05-May-2019 01:16:08 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:25
+[05-May-2019 01:17:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 25
+[05-May-2019 01:17:23 UTC] PHP Stack trace:
+[05-May-2019 01:17:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:0
+[05-May-2019 01:17:23 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:25
+[05-May-2019 01:18:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 24
+[05-May-2019 01:18:03 UTC] PHP Stack trace:
+[05-May-2019 01:18:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:0
+[05-May-2019 01:18:03 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:24
+[05-May-2019 01:18:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 24
+[05-May-2019 01:18:30 UTC] PHP Stack trace:
+[05-May-2019 01:18:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:0
+[05-May-2019 01:18:30 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:24
+[05-May-2019 01:20:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 24
+[05-May-2019 01:20:23 UTC] PHP Stack trace:
+[05-May-2019 01:20:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:0
+[05-May-2019 01:20:23 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:24
+[05-May-2019 01:23:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 24
+[05-May-2019 01:23:41 UTC] PHP Stack trace:
+[05-May-2019 01:23:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:0
+[05-May-2019 01:23:41 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:24
+[05-May-2019 01:24:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 24
+[05-May-2019 01:24:09 UTC] PHP Stack trace:
+[05-May-2019 01:24:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:0
+[05-May-2019 01:24:09 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:24
+[05-May-2019 01:24:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 24
+[05-May-2019 01:24:47 UTC] PHP Stack trace:
+[05-May-2019 01:24:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:0
+[05-May-2019 01:24:47 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:24
+[05-May-2019 01:25:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 24
+[05-May-2019 01:25:18 UTC] PHP Stack trace:
+[05-May-2019 01:25:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:0
+[05-May-2019 01:25:18 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:24
+[05-May-2019 01:25:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 24
+[05-May-2019 01:25:22 UTC] PHP Stack trace:
+[05-May-2019 01:25:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:0
+[05-May-2019 01:25:22 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:24
+[05-May-2019 01:26:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 24
+[05-May-2019 01:26:14 UTC] PHP Stack trace:
+[05-May-2019 01:26:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:0
+[05-May-2019 01:26:14 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:24
+[05-May-2019 01:28:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 24
+[05-May-2019 01:28:33 UTC] PHP Stack trace:
+[05-May-2019 01:28:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:0
+[05-May-2019 01:28:33 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:24
+[05-May-2019 01:29:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 24
+[05-May-2019 01:29:08 UTC] PHP Stack trace:
+[05-May-2019 01:29:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:0
+[05-May-2019 01:29:08 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:24
+[05-May-2019 01:30:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 24
+[05-May-2019 01:30:02 UTC] PHP Stack trace:
+[05-May-2019 01:30:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:0
+[05-May-2019 01:30:02 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:24
+[05-May-2019 01:30:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 24
+[05-May-2019 01:30:46 UTC] PHP Stack trace:
+[05-May-2019 01:30:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:0
+[05-May-2019 01:30:46 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:24
+[05-May-2019 18:05:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 24
+[05-May-2019 18:05:12 UTC] PHP Stack trace:
+[05-May-2019 18:05:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:0
+[05-May-2019 18:05:12 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:24
+[05-May-2019 18:07:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 24
+[05-May-2019 18:07:16 UTC] PHP Stack trace:
+[05-May-2019 18:07:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:0
+[05-May-2019 18:07:16 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:24
+[05-May-2019 18:08:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 24
+[05-May-2019 18:08:05 UTC] PHP Stack trace:
+[05-May-2019 18:08:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:0
+[05-May-2019 18:08:05 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php:24
+[05-May-2019 18:24:51 UTC] PHP Parse error:  syntax error, unexpected 'NULL' (T_STRING) in /home/ubuntu/workspace/spring2019/Projects/project04/meditationDiary.php on line 71
+[06-May-2019 00:25:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/spring2019/Projects/project04/createMeditationBlog.php on line 65
+[07-May-2019 15:08:30 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/spring2019/Projects/project04/addComment.php on line 39

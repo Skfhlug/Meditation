@@ -1,0 +1,145 @@
+h3 
+{
+    font-size: 150%;
+    color: white;
+    background-color: #77C4CA;
+    padding: 25px 50px;
+    
+}
+
+.navbar
+{
+    /*list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    display: inline-block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #C8DBC4;
+    border-color: #285064;*/
+  float: left;
+  display: block;
+  color: #078f9a;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  background-color: #C8DBC4;
+}
+
+head
+{
+    background-color: #77C4CA;
+}
+
+body
+{
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 16px;
+    line-height: 1.6;
+    background-color: #BCB1AE;
+}
+
+.info
+{
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+
+.id
+{
+    float: right;
+}
+.error
+{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+fieldset
+{
+    background-color: #C8DBC4; 
+    width: 500px;
+    color: #078f9a;
+    font: 200%;
+
+}
+
+th, td, .td2 
+{
+    padding: 5px;
+    margin: 5px 0;
+    border: 1px solid #285064;
+}
+
+.table1
+{
+    padding: 5px;
+    margin:14px 16px;
+    border:  3px solid #77C4CA;
+    /*padding: 30px;*/
+    background-color: #C8DBC4; 
+}
+
+.table2
+{
+    position: absolute;
+    top: 220px;
+    left: 700px;
+    background-color: #C8DBC4; 
+    padding: 30px 8px;
+    border-collapse: collapse;
+    border: 1px solid #285064;
+}
+
+.table3
+{
+    top: 3500px;
+    background-color: #C8DBC4; 
+    padding: 30px;
+    border-collapse: collapse;
+    border: 1px solid #285064;
+}
+
+.Enumber
+{
+    color: red;
+    font-size: 200%;
+}
+input, select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+
+}
+
+input[type=submit] {
+  width: 500px;
+  background-color: #77C4CA;
+  color: white;
+  padding: 20px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+
+}
+input[type=radio] 
+{
+  background-color: #77C4CA;
+  padding: 10px 10px;
+}
+
+.delete
+{
+    width: 50px;
+    padding: 5px 5px;
+    
+}
